@@ -1,6 +1,6 @@
 # CLI Project
 
-[![Go](https://github.com/tamirarnesty/cli/actions/workflows/go.yml/badge.svg)](https://github.com/tamirarnesty/cli/actions/workflows/go.yml)
+[![Tests](https://github.com/tamirarnesty/cli/actions/workflows/go.yml/badge.svg)](https://github.com/tamirarnesty/cli/actions/workflows/go.yml)
 ---
 
 This repository contains a CLI project that I've been working on for a while. It's a simple project that I've been utilizing to learn Go, as well as learn how to write a CLI.
